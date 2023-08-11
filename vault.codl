@@ -1,3 +1,5 @@
+version 1
+
 release symbolism
   repo https://github.com/propensive/symbolism/
     commit  7b6561511c49aa1299c9e42921f2fb2ce2d78e3f
