@@ -1,9 +1,14 @@
-version 1
+version 2
 
 release symbolism
-  repo https://github.com/propensive/symbolism/
-    commit  7b6561511c49aa1299c9e42921f2fb2ce2d78e3f
-    ref     main
+  repo https://github.com/propensive/symbolism/ 7b6561511c49aa1299c9e42921f2fb2ce2d78e3f main
+  
+  website      https://github.com/propensive/symbolism/
+  description  A general mechanism to implement overloaded symbolic operators in Scala
+  license      apache-2.0
+
+release anticipation
+  repo https://github.com/propensive/anticipation/ e0351907efd8481134a8d97ad23e187e108ef91f main
   
   website      https://github.com/propensive/symbolism/
   description  A general mechanism to implement overloaded symbolic operators in Scala
