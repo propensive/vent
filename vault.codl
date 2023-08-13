@@ -1,4 +1,4 @@
-version 2
+version 3
 
 release symbolism
   repo https://github.com/propensive/symbolism/ 7b6561511c49aa1299c9e42921f2fb2ce2d78e3f main
@@ -15,6 +15,26 @@ release anticipation
   
   website      https://github.com/propensive/symbolism/
   description  A general mechanism to implement overloaded symbolic operators in Scala
+  license      apache-2.0
+  stream       latest
+  lifetime     30
+  date         2023-08-11
+
+release rudiments
+  repo https://github.com/propensive/rudiments/ d7a0d3f269b58741502c31a94fab8676cfe3c38c main
+  
+  website      https://github.com/propensive/rudiments/
+  description  Rudimentary utilities for writing everyday Scala
+  license      apache-2.0
+  stream       latest
+  lifetime     30
+  date         2023-08-11
+
+release kaleidoscope
+  repo https://github.com/propensive/kaleidoscope/ d7a0d3f269b58741502c31a94fab8676cfe3c38c main
+  
+  website      https://github.com/propensive/kaleidoscope/
+  description  Statically-checked inline matching on regular expressions
   license      apache-2.0
   stream       latest
   lifetime     30
