@@ -13,3 +13,6 @@ release anticipation
   website      https://github.com/propensive/symbolism/
   description  A general mechanism to implement overloaded symbolic operators in Scala
   license      apache-2.0
+  stream       latest
+  lifetime     30
+  date         2023-08-11
