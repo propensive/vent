@@ -1,4 +1,4 @@
-version 4
+version 5
 
 release symbolism
   repo https://github.com/propensive/symbolism/ 7b6561511c49aa1299c9e42921f2fb2ce2d78e3f main
@@ -55,6 +55,16 @@ release perforate
   
   website      https://github.com/propensive/fulminate/
   description  Rich and composable error messages
+  license      apache-2.0
+  stream       latest
+  lifetime     30
+  date         2023-08-11
+
+release hieroglyph
+  repo https://github.com/propensive/hieroglyph/ 08083736871afafb2e490cf813622267b3778d03 main
+  
+  website      https://github.com/propensive/hieroglyph/
+  description  Tools for working with characters in Scala
   license      apache-2.0
   stream       latest
   lifetime     30
