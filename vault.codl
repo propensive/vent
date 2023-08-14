@@ -3,7 +3,7 @@ version 5
 
 release symbolism
   name Symbolism
-  repo https://github.com/propensive/symbolism/ 7b6561511c49aa1299c9e42921f2fb2ce2d78e3f main
+  repo https://github.com/propensive/symbolism/ 2c74f9d57c711efb5eea1b4939513c9f35f0110b main
   
   website      https://github.com/propensive/symbolism/
   description  A general mechanism to implement overloaded symbolic operators in Scala
@@ -36,7 +36,7 @@ release escapade
 
 release rudiments
   name Rudiments
-  repo https://github.com/propensive/rudiments/ d7a0d3f269b58741502c31a94fab8676cfe3c38c main
+  repo https://github.com/propensive/rudiments/ 7b5485d466b85da5008a140e1eebd33af898b89e main
   
   website      https://github.com/propensive/rudiments/
   description  Rudimentary utilities for writing everyday Scala
@@ -47,7 +47,7 @@ release rudiments
 
 release kaleidoscope
   name Kaleidoscope
-  repo https://github.com/propensive/kaleidoscope/ 60c1ba17e036738d60691a688463b92968a8b5d3 main
+  repo https://github.com/propensive/kaleidoscope/ 1e2551b724af993f2407cc02f6e621ddb5536e34 main
   
   website      https://github.com/propensive/kaleidoscope/
   description  Statically-checked inline matching on regular expressions
@@ -69,7 +69,7 @@ release fulminate
 
 release perforate
   name Perforate
-  repo https://github.com/propensive/perforate/ e0f5163718e75380c5c85c2e00c0e660f61d1bc9 main
+  repo https://github.com/propensive/perforate/ 17d631f67b73e4b9dabcd9d9b9ceedc51c40d21a main
   
   website      https://github.com/propensive/fulminate/
   description  Rich and composable error messages
@@ -80,7 +80,7 @@ release perforate
 
 release hieroglyph
   name Hieroglyph
-  repo https://github.com/propensive/hieroglyph/ 08083736871afafb2e490cf813622267b3778d03 main
+  repo https://github.com/propensive/hieroglyph/ e90c0f3c58c9aefc5d7ae14e686fac176412c63b main
   
   website      https://github.com/propensive/hieroglyph/
   description  Tools for working with characters in Scala
