@@ -69,7 +69,7 @@ release fulminate
 
 release perforate
   name Perforate
-  repo https://github.com/propensive/perforate/ 17d631f67b73e4b9dabcd9d9b9ceedc51c40d21a main
+  repo https://github.com/propensive/perforate/ 9fb6674709585799bce14a5d4f7c2ed0e1a3d119 main
   
   website      https://github.com/propensive/fulminate/
   description  Rich and composable error messages
