@@ -1,6 +1,7 @@
 version 5
 
 release symbolism
+  name Symbolism
   repo https://github.com/propensive/symbolism/ 7b6561511c49aa1299c9e42921f2fb2ce2d78e3f main
   
   website      https://github.com/propensive/symbolism/
@@ -11,6 +12,7 @@ release symbolism
   stream       latest
 
 release anticipation
+  name Anticipation
   repo https://github.com/propensive/anticipation/ e0351907efd8481134a8d97ad23e187e108ef91f main
   
   website      https://github.com/propensive/symbolism/
@@ -21,6 +23,7 @@ release anticipation
   date         2023-08-11
 
 release rudiments
+  name Rudiments
   repo https://github.com/propensive/rudiments/ d7a0d3f269b58741502c31a94fab8676cfe3c38c main
   
   website      https://github.com/propensive/rudiments/
@@ -31,6 +34,7 @@ release rudiments
   date         2023-08-11
 
 release kaleidoscope
+  name Kaleidoscope
   repo https://github.com/propensive/kaleidoscope/ 60c1ba17e036738d60691a688463b92968a8b5d3 main
   
   website      https://github.com/propensive/kaleidoscope/
@@ -41,6 +45,7 @@ release kaleidoscope
   date         2023-08-11
 
 release fulminate
+  name Fulminate
   repo https://github.com/propensive/fulminate/ 672a701361572d2684d00bdc514135c8fda61514 main
   
   website      https://github.com/propensive/fulminate/
@@ -51,6 +56,7 @@ release fulminate
   date         2023-08-11
 
 release perforate
+  name Perforate
   repo https://github.com/propensive/perforate/ e0f5163718e75380c5c85c2e00c0e660f61d1bc9 main
   
   website      https://github.com/propensive/fulminate/
@@ -61,6 +67,7 @@ release perforate
   date         2023-08-11
 
 release hieroglyph
+  name Hieroglyph
   repo https://github.com/propensive/hieroglyph/ 08083736871afafb2e490cf813622267b3778d03 main
   
   website      https://github.com/propensive/hieroglyph/
