@@ -1,4 +1,4 @@
-version 3
+version 4
 
 release symbolism
   repo https://github.com/propensive/symbolism/ 7b6561511c49aa1299c9e42921f2fb2ce2d78e3f main
@@ -35,6 +35,26 @@ release kaleidoscope
   
   website      https://github.com/propensive/kaleidoscope/
   description  Statically-checked inline matching on regular expressions
+  license      apache-2.0
+  stream       latest
+  lifetime     30
+  date         2023-08-11
+
+release fulminate
+  repo https://github.com/propensive/fulminate/ 672a701361572d2684d00bdc514135c8fda61514 main
+  
+  website      https://github.com/propensive/fulminate/
+  description  Rich and composable error messages
+  license      apache-2.0
+  stream       latest
+  lifetime     30
+  date         2023-08-11
+
+release perforate
+  repo https://github.com/propensive/perforate/ e0f5163718e75380c5c85c2e00c0e660f61d1bc9 main
+  
+  website      https://github.com/propensive/fulminate/
+  description  Rich and composable error messages
   license      apache-2.0
   stream       latest
   lifetime     30
