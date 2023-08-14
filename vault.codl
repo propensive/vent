@@ -58,7 +58,7 @@ release kaleidoscope
 
 release fulminate
   name Fulminate
-  repo https://github.com/propensive/fulminate/ 672a701361572d2684d00bdc514135c8fda61514 main
+  repo https://github.com/propensive/fulminate/ 398364c870f54beb07af921fbc4abf3370c4379a main
   
   website      https://github.com/propensive/fulminate/
   description  Rich and composable error messages
