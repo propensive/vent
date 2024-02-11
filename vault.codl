@@ -67,12 +67,12 @@ release fulminate
   lifetime     30
   date         2023-08-11
 
-release perforate
-  name Perforate
-  repo https://github.com/propensive/perforate/ 9fb6674709585799bce14a5d4f7c2ed0e1a3d119 main
+release contingency
+  name Contingency
+  repo https://github.com/propensive/contingency/ 9fb6674709585799bce14a5d4f7c2ed0e1a3d119 main
   
-  website      https://github.com/propensive/fulminate/
-  description  Rich and composable error messages
+  website      https://github.com/propensive/contingency/
+  description  Versatile error handling for every scenario
   license      apache-2.0
   stream       latest
   lifetime     30
