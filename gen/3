@@ -1,0 +1,46 @@
+name Vent
+version 3
+
+release symbolism
+  name Symbolism
+  repo https://github.com/propensive/symbolism/ 2c74f9d57c711efb5eea1b4939513c9f35f0110b main
+  
+  website      https://github.com/propensive/symbolism/
+  description  A general mechanism to implement overloaded symbolic operators in Scala
+  license      apache-2.0
+  lifetime     30
+  date         2023-08-11
+  stream       latest
+
+release anticipation
+  name Anticipation
+  repo https://github.com/propensive/anticipation/ e0351907efd8481134a8d97ad23e187e108ef91f main
+  
+  website      https://github.com/propensive/symbolism/
+  description  A general mechanism to implement overloaded symbolic operators in Scala
+  license      apache-2.0
+  stream       latest
+  lifetime     30
+  date         2023-08-11
+
+release escapade
+  name Escapade
+  repo https://github.com/propensive/escapade/ 9f9ddd149664a33bd391b472ebc0c2b908fc184c main
+  
+  website      https://github.com/propensive/escapade/
+  description  The adventure of ANSI escape codes in Scala
+  license      apache-2.0
+  stream       latest
+  lifetime     30
+  date         2023-08-11
+
+release rudiments
+  name Rudiments
+  repo https://github.com/propensive/rudiments/ a719c44b37125859928af308c364ce03816e2cdb main
+  
+  website      https://github.com/propensive/rudiments/
+  description  Rudimentary utilities for writing everyday Scala
+  license      apache-2.0
+  stream       latest
+  lifetime     30
+  date         2023-08-11
