@@ -1,5 +1,5 @@
 name Vent
-version 5
+version 6
 
 release symbolism
   name Symbolism
@@ -36,7 +36,7 @@ release escapade
 
 release rudiments
   name Rudiments
-  repo https://github.com/propensive/rudiments/ 7b5485d466b85da5008a140e1eebd33af898b89e main
+  repo https://github.com/propensive/rudiments/ a719c44b37125859928af308c364ce03816e2cdb main
   
   website      https://github.com/propensive/rudiments/
   description  Rudimentary utilities for writing everyday Scala
@@ -47,7 +47,7 @@ release rudiments
 
 release kaleidoscope
   name Kaleidoscope
-  repo https://github.com/propensive/kaleidoscope/ 1e2551b724af993f2407cc02f6e621ddb5536e34 main
+  repo https://github.com/propensive/kaleidoscope/ d353080f31031171bb260b6f55bdf168fb6ab3c4 main
   
   website      https://github.com/propensive/kaleidoscope/
   description  Statically-checked inline matching on regular expressions
@@ -69,7 +69,7 @@ release fulminate
 
 release contingency
   name Contingency
-  repo https://github.com/propensive/contingency/ 9fb6674709585799bce14a5d4f7c2ed0e1a3d119 main
+  repo https://github.com/propensive/contingency/ 597bd8e7bbb121cf3db1fc0e7537651b1207067f main
   
   website      https://github.com/propensive/contingency/
   description  Versatile error handling for every scenario
@@ -88,3 +88,25 @@ release hieroglyph
   stream       latest
   lifetime     30
   date         2023-08-11
+
+release vacuous
+  name Vacuous
+  repo https://github.com/propensive/vacuous/ ae591dbc2632cb4d2b2838b09928be5c6b0d91e4 main
+  
+  website      https://github.com/propensive/vacuous/
+  description  A simple representation of optional values
+  license      apache-2.0
+  stream       latest
+  lifetime     30
+  date         2024-02-20
+
+release hypotenuse
+  name Hypotenuse
+  repo https://github.com/propensive/hypotenuse/ 858933bf8e71e0407cf75551507f46b42506687c main
+  
+  website      https://github.com/propensive/hypotenuse/
+  description  A rigorous and consistent foundation for numerical and arithmetic programming
+  license      apache-2.0
+  stream       latest
+  lifetime     30
+  date         2024-02-20
