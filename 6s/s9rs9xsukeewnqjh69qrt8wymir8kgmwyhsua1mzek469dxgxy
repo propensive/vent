@@ -1,0 +1,11 @@
+id  fulminate
+stream  whatever
+name  Fulminate
+website  https://github.com/propensive/fulminate
+description  Rich and composable error messages
+license  apache-2
+date  2024-04-10
+lifetime  30
+repo
+  url  git@github.com:propensive/fulminate.git
+  commit  2d3490bc852a76e88f3a1ab3020e059a136ecc2c
