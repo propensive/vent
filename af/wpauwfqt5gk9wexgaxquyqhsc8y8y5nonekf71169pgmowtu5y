@@ -1,0 +1,11 @@
+id  gossamer
+stream  whatever
+name  Gossamer
+website  https://github.com/propensive/gossamer
+description  Lightweight string utilities
+license  apache-2
+date  2024-04-10
+lifetime  30
+repo
+  url  https://example.com/
+  commit  2f55eccbc1c859449efc08fb778a614cc195f5bb
