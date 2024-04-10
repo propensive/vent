@@ -1,0 +1,11 @@
+id  gastronomy
+stream  whatever
+name  Gastronomy
+website  https://github.com/propensive/gastronomy
+description  Simple generically-derived cryptographic digestion
+license  apache-2
+date  2024-04-10
+lifetime  30
+repo
+  url  git@github.com:propensive/gastronomy
+  commit  64b7a8bb5273c1d13a085fbc0aa86be30238ab60
