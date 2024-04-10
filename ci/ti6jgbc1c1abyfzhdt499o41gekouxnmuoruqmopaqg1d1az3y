@@ -1,0 +1,11 @@
+id  kaleidoscope
+stream  whatever
+name  Kaleidoscope
+website  https://github.com/propensive/kaleidoscope
+description  Statically-checked inline matching on regular expressions
+license  apache-2
+date  2024-04-10
+lifetime  30
+repo
+  url  git@github.com:propensive/kaleidoscope
+  commit  21fca42dd40f9facd0813d2dd8f5f34b9d56dfa4
