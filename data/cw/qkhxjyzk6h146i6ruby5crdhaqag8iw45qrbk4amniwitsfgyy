@@ -1,0 +1,11 @@
+id  vacuous
+stream  latest
+name  Vacuous
+website  https://github.com/propensive/vacuous
+description  Simple tools for working with data streams in `LazyList`s
+license  apache-2
+date  2024-04-12
+lifetime  7
+repo
+  url  git@github.com:propensive/vacuous.git
+  commit  958f429c164c5622a358f4167a9e08b4a356e319
